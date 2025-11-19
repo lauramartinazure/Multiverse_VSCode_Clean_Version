@@ -8,6 +8,7 @@
 # 3. Step Out: After entering square(), press Shift + F11.
 #    VS Code finishes the rest of square() automatically, returning you to calculate_area().
 # ==============================================
+# This is a second minor change
 
 def greet_user(name):
     """A simple function that prints a greeting."""
