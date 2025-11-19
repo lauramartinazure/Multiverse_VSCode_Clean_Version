@@ -12,7 +12,7 @@
 
 def greet_user(name):
     """A simple function that prints a greeting."""
-    print(f"Hello, {name}!")  # Step into here to see inside greet_user
+    print(f"Hello, {name}! Good afternoon")  # Step into here to see inside greet_user
 
 def multiply(a, b):
     """Returns a * b and prints a message."""
